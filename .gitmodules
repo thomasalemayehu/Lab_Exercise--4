@@ -1,0 +1,9 @@
+[submodule "Banking"]
+	path = Banking
+	url = https://github.com/thomasalemayehu/Banking
+[submodule "Personal-DB"]
+	path = Personal-DB
+	url = https://github.com/thomasalemayehu/Personal-DB
+[submodule "Calculator-Console"]
+	path = Calculator-Console
+	url = https://github.com/thomasalemayehu/Calculator-Console
